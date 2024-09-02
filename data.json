@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": "dc75",
+      "text": "change css styles",
+      "status": "completed"
+    },
+    {
+      "id": "e3ec",
+      "text": "bug fix on modal",
+      "status": "unstarted"
+    },
+    {
+      "id": "e821",
+      "text": "add observer design pattern to model",
+      "status": "in progress"
+    },
+    {
+      "id": "a526",
+      "text": "responsivness of main page",
+      "status": "completed"
+    },
+    {
+      "id": "3ecb",
+      "text": "use carousel lib for gallery",
+      "status": "unstarted"
+    }
+  ]
+}
